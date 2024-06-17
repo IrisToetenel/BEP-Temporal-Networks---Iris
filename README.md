@@ -67,7 +67,7 @@ This directory contains all files related the temporal network of transfers in t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/IrisToetenel/BEP-Temporal-Networks-Iris
+   git clone https://github.com/IrisToetenel/BEP-Temporal-Networks-Iris.git
    cd BEP-Temporal-Networks-Iris
 
 ### DATA FOR THE DISRUPTIONS NETWORK
